@@ -19,7 +19,7 @@
 
 <img align="left" alt="Laravel" width="26px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" />
 <img align="left" alt="Intellij idea" width="26px" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" />
-<img align="left" alt="Linux" width="26px" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" />
+<img align="left" alt="Linux" width="26px" src="https://seeklogo.com/images/L/Linux_Tux-logo-DA252F3C21-seeklogo.com.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
