@@ -1,6 +1,6 @@
-### Hi there, I'm Danu [Hey you.! you wanna explore me?][website] 👋🚀 
+### Hi there, I'm Danu [you wanna explore me?][website] 👋🚀 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDanuDeshan&screen_name=DanuDeshan)
+[![Twitter Follow](https://img.shields.io/twitter/follow/DanuDeshan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDanuDeshan&screen_name=DanuDeshan)
 
 ## I'm a Developer, Teacher and I would like to called me as problem solver!! 🦾
 
@@ -37,26 +37,10 @@
 <br />
 <br />
 
----
-
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/15) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-2. 🗣 Commented on [#15](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/15) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-3. ❗️ Closed issue [#13](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/13) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-4. 🗣 Commented on [#13](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/13) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-5. 🗣 Commented on [#12](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/12) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-<!--END_SECTION:activity-->
-
-</details>
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="danuja's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DanujaV&show_icons=true&hide_border=true" />
+  <img align="left" alt="danuja's GitHub Stats" src="https://github-readme-stats.DanujaV.vercel.app/api?username=DanujaV&show_icons=true&hide_border=true" />
 
 </details>
 
