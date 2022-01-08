@@ -38,12 +38,7 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="danuja's GitHub Stats" src="https://github-readme-stats.DanujaV.vercel.app/api?username=DanujaV&show_icons=true&hide_border=true" />
-
-</details>
+[![Danu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanujaV)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://www.linkedin.com/in/danujav/
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDanuDeshan&screen_name=DanuDeshan
