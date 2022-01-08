@@ -40,8 +40,6 @@
 
 ---
 
-<br>
-
 [![Danu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanujaV)](https://github.com/DanujaV)
 
 [website]: https://www.linkedin.com/in/danujav/
