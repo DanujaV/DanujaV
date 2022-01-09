@@ -40,7 +40,6 @@
 
 ---
 
-[![Danu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanujaV&theme=radical&show_icons=true)](https://github.com/DanujaV)
 
 [website]: https://www.linkedin.com/in/danujav/
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDanuDeshan&screen_name=DanuDeshan
