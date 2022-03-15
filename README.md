@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DanuDeshan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDanuDeshan&screen_name=DanuDeshan)
 
-## I'm a Developer, Lecturer and I would like to called me as problem solver!! 🦾
+## I'm a Developer, Lecturer and I would like to call me as problem solver!! 🦾
 
 - 🌱 I’m currently learning everything 🤠
 
